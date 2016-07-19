@@ -6,7 +6,8 @@
     <div class="form-desc">
       <img id = "form-img"class="materialboxed" src="img/postmeatest.jpg">
       <div class="form-text">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+        <p>Issued whenever inspection in meat establishments are conducted by the office. Gathers the owner's name, number of meat inspected
+        and certificates</p>
         <h5>Procedure</h5>
         <ol type="1">
           <li>Lorem ipsum </li>

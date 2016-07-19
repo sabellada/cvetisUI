@@ -6,7 +6,9 @@
     <div class="form-desc">
       <img id = "form-img"class="materialboxed" src="img/dair-r.jpg">
       <div class="form-text">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+        <p>For age classffication and status checking of the ruminants.
+To be filled up by the Meat inspector that will identify if
+the animal is for condemnation or for slaughter.</p>
         <h5>Procedure</h5>
         <ol type="1">
           <li>Lorem ipsum </li>

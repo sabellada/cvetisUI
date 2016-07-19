@@ -1,12 +1,13 @@
 <div id="details-dmir-s" class="modal modal-fixed-footer">
   <div style="border-bottom: 3px solid #F44336; margin-top: 15px; z-index: 100000;">
-    <h4 class="center">Daily Animal Inspection Report (Ruminants)</h4>
+    <h4 class="center">Daily Meat Inspection Report (Swine)</h4>
   </div>
   <div class="modal-content">
     <div class="form-desc">
       <img id = "form-img"class="materialboxed" src="img/dmir-s.jpg">
       <div class="form-text">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+        <p>Filled up after a swine has been slaughtered to make sure
+if the meat is fit for human consumption or condemnation.</p>
         <h5>Procedure</h5>
         <ol type="1">
           <li>Lorem ipsum </li>

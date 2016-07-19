@@ -178,7 +178,7 @@
         <div class="col s4">
           <img src="img/ruby.jpg" style="width:100%;">
           <div class="icon-block">
-            <h5 class="center red-text">BUTTERCUP</h5>
+            <h5 class="center red-text">Ruby Robas</h5>
             <p class="center light">Lorem ipsum dolor sit amet, <br>
                 consectetur adipiscing elit, sed do eiusmod <br>
                 tempor incididunt ut labore <br></p>
@@ -188,7 +188,7 @@
         <div class="col s12 m4">
           <img src="img/chua.jpg" style="width:100%;">
           <div class="icon-block">
-            <h5 class="center red-text">BLOSSOM</h5>
+            <h5 class="center red-text">Crysta Chua</h5>
             <p class="center light">Lorem ipsum dolor sit amet, <br>
                 consectetur adipiscing elit, sed do eiusmod <br>
                 tempor incididunt ut labore <br></p>
@@ -198,7 +198,7 @@
         <div class="col s12 m4">
           <img src="img/sam.jpg" style="width:100%;">
           <div class="icon-block">
-            <h5 class="center red-text">BUBBLES</h5>
+            <h5 class="center red-text">Sam abellada</h5>
             <p class="center light">Lorem ipsum dolor sit amet, <br>
                 consectetur adipiscing elit, sed do eiusmod <br>
                 tempor incididunt ut labore <br></p>
