@@ -179,13 +179,13 @@ the specified process by presenting data, trends, values and progress, through t
           <h6 class="center">"We lead by being the member of our own team"    - BRiMO</h6>
         </div>
         <br>
-        <div class="col s4">
+        <div class="col s12 m4">
           <img src="img/ruby.jpg" style="width:100%;">
           <div class="icon-block">
             <h5 class="center red-text">Ruby Robas</h5>
             <p class="center light">We Listen <br>
-                 <i class="large material-icons md-48">insert_chart</i><i class="material-icons">add</i> <i class="material-icons">add</i></p>
-          <br></div>
+           <!--       <i class="large material-icons md-48">insert_chart</i><i class="material-icons">add</i> <i class="material-icons">add</i></p>
+          --> <br></div>
         </div>
 
         <div class="col s12 m4">
