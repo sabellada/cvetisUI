@@ -189,9 +189,15 @@
           <img src="img/chua.jpg" style="width:100%;">
           <div class="icon-block">
             <h5 class="center red-text">Crysta Chua</h5>
-            <p class="center light">Lorem ipsum dolor sit amet, <br>
-                consectetur adipiscing elit, sed do eiusmod <br>
-                tempor incididunt ut labore <br></p>
+           
+                <ul class="list-inline social-buttons">
+                            <li><a href="http://blackrockdigital.github.io/startbootstrap-agency/#"><i class="fa fa-twitter"></i></a>
+                            </li>
+                            <li><a href="http://blackrockdigital.github.io/startbootstrap-agency/#"><i class="fa fa-facebook"></i></a>
+                            </li>
+                            <li><a href="http://blackrockdigital.github.io/startbootstrap-agency/#"><i class="fa fa-linkedin"></i></a>
+                            </li>
+                </ul>
           </div>
         </div>
 
