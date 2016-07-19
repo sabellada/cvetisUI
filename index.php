@@ -180,7 +180,7 @@ the specified process by presenting data, trends, values and progress, through t
         </div>
         <br>
         <div class="col s12 m4">
-          <img src="img/ruby.jpg" style="width:100%;">
+          <img src="img/r.jpg" style="width:100%;">
           <div class="icon-block">
             <h5 class="center red-text">Ruby Robas</h5>
             <p class="center light">We Listen <br>
@@ -189,7 +189,7 @@ the specified process by presenting data, trends, values and progress, through t
         </div>
 
         <div class="col s12 m4">
-          <img src="img/chua.jpg" style="width:100%;">
+          <img src="img/c.jpg" style="width:100%;">
           <div class="icon-block">
             <h5 class="center red-text">Crysta Chua</h5>
             <p class="center light">We Operate<br></p>
@@ -197,7 +197,7 @@ the specified process by presenting data, trends, values and progress, through t
         </div>
 
         <div class="col s12 m4">
-          <img src="img/sam.jpg" style="width:100%;">
+          <img src="img/s.jpg" style="width:100%;">
           <div class="icon-block">
             <h5 class="center red-text">Sam abellada</h5>
             <p class="center light">We Perform<br></p>
