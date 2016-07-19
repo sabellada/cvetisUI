@@ -75,7 +75,7 @@ ul#stats.dropdown-content{
     <li><a href="#!">Veterinary Services</a></li>
     <li class="divider"></li>
     <li><a href="#!">Livestock Services</a></li>
-    <li><a class='dropdown-button2 d' href='#' data-activates='dropdown2' data-hover="hover" data-alignment="left">Meat Inspection Services</a></li>
+    <li><a class='dropdown-button2 d' href='#' data-activates='dropdown2' data-hover="hover" data-alignment="left">Meat Inspection Service</a></li>
 </ul>
 
 
