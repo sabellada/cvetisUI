@@ -72,10 +72,10 @@ ul#stats.dropdown-content{
 </ul>
 
   <ul id='services' class='dropdown-content'>
-    <li><a href="#!">two</a></li>
+    <li><a href="#!">Veterinary Services</a></li>
     <li class="divider"></li>
-    <li><a href="#!">three</a></li>
-    <li><a class='dropdown-button2 d' href='#' data-activates='dropdown2' data-hover="hover" data-alignment="left">Drop Me!</a></li>
+    <li><a href="#!">Livestock Services</a></li>
+    <li><a class='dropdown-button2 d' href='#' data-activates='dropdown2' data-hover="hover" data-alignment="left">Meat Inspection Services</a></li>
 </ul>
 
 
