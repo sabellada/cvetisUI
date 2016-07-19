@@ -70,7 +70,7 @@
       <div id="services" class="row scrollspy" >
         <div id="title">
           <h4 class="center">SERVICES</h4>
-          <h6 class="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt</h6>
+          <h6 class="center">CVETIS promotes the 3 main services offered by City Veterinary Offices.</h6>
         </div>
 
         <br>
@@ -116,7 +116,8 @@
     <div class="section no-pad-bot">
       <div class="container">
         <div class="row center">
-          <h5 class="header col s12 light">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</h5>
+          <h5 class="header col s12 light">With CVETIS we envision a city of healthy and productive animals with utmost consideration in their welfare uplifting
+          the economy and safeguarding the meat consuming public from unreasonable hazards to health by producing wholesome and quality meat</h5>
         </div>
       </div>
     </div>
@@ -130,14 +131,15 @@
       <div id="features" class="row">
        <div id="title">
           <h4 class="center">Features</h4>
-          <h6 class="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt</h6>
+          <h6 class="center">We don't just record. We help, promote, and generate reports</h6>
         </div>
         <br>
         <div class="col s12 m6">
           <div class="icon-block">
             <h5 class="center red-text"><i class="material-icons">dashboard</i> Dashboard</h5>
 
-            <p class="center light">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+            <p class="center light">Dashboards will provide the veterinary employees with a graphical representation of the office current performance on
+the specified process by presenting data, trends, values and progress, through tables, gauges and charts.</p>
           </div>
         </div>
 
@@ -145,7 +147,8 @@
           <div class="icon-block">
             <h5 class="center red-text"><i class="material-icons">description</i> E-Forms</h5>
 
-            <p class="center light">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+            <p class="center light">E-forms will provide the veterinary employees an e-module that will act as the automated version of the offices current paper-based forms.
+            With the use of E-Forms, the transactions done by the office can be recorded and stored faster.</p>
           </div>
         </div>
       </div>
@@ -158,7 +161,8 @@
     <div class="section no-pad-bot">
       <div class="container">
         <div class="row center">
-          <h5 class="header col s12 light">A modern responsive front-end framework based on Material Design</h5>
+          <h5 class="header col s12 light">The aim of CVETIS is to advocate protection, make cities free from zoonotic and highly contagious animal diseases and to ensure that what we consume is clean, wholesome and quality meat 
+          by helping veterinary staff make their recordings easier and safe from misplacement and data loss.</h5>
         </div>
       </div>
     </div>
@@ -172,32 +176,23 @@
       <div id="developers" class="row">
        <div id="title">
           <h4 class="center">Meat the Team</h4>
-          <h6 class="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt</h6>
+          <h6 class="center">"We lead by being the member of our own team"    - BRiMO</h6>
         </div>
         <br>
         <div class="col s4">
           <img src="img/ruby.jpg" style="width:100%;">
           <div class="icon-block">
             <h5 class="center red-text">Ruby Robas</h5>
-            <p class="center light">Lorem ipsum dolor sit amet, <br>
-                consectetur adipiscing elit, sed do eiusmod <br>
-                tempor incididunt ut labore <br></p>
-          </div>
+            <p class="center light">We Listen <br>
+                 <i class="large material-icons md-48">insert_chart</i><i class="material-icons">add</i> <i class="material-icons">add</i></p>
+          <br></div>
         </div>
 
         <div class="col s12 m4">
           <img src="img/chua.jpg" style="width:100%;">
           <div class="icon-block">
             <h5 class="center red-text">Crysta Chua</h5>
-           
-                <ul class="list-inline social-buttons">
-                            <li><a href="http://blackrockdigital.github.io/startbootstrap-agency/#"><i class="fa fa-twitter"></i></a>
-                            </li>
-                            <li><a href="http://blackrockdigital.github.io/startbootstrap-agency/#"><i class="fa fa-facebook"></i></a>
-                            </li>
-                            <li><a href="http://blackrockdigital.github.io/startbootstrap-agency/#"><i class="fa fa-linkedin"></i></a>
-                            </li>
-                </ul>
+            <p class="center light">We Operate<br></p>
           </div>
         </div>
 
@@ -205,9 +200,7 @@
           <img src="img/sam.jpg" style="width:100%;">
           <div class="icon-block">
             <h5 class="center red-text">Sam abellada</h5>
-            <p class="center light">Lorem ipsum dolor sit amet, <br>
-                consectetur adipiscing elit, sed do eiusmod <br>
-                tempor incididunt ut labore <br></p>
+            <p class="center light">We Perform<br></p>
           </div>
         </div>
       </div>

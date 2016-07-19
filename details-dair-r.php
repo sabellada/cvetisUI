@@ -6,7 +6,7 @@
     <div class="form-desc">
       <img id = "form-img"class="materialboxed" src="img/dair-r.jpg">
       <div class="form-text">
-        <p>For age classffication and status checking of the ruminants.
+        <p>For age classification and status checking of the ruminants.
 To be filled up by the Meat inspector that will identify if
 the animal is for condemnation or for slaughter.</p>
         <h5>Procedure</h5>
