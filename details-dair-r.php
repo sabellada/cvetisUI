@@ -11,10 +11,10 @@ To be filled up by the Meat inspector that will identify if
 the animal is for condemnation or for slaughter.</p>
         <h5>Procedure</h5>
         <ol type="1">
-          <li>Lorem ipsum </li>
-          <li>Lorem ipsum </li>
-          <li>Lorem ipsum </li>
-          <li>Lorem ipsum </li>
+          <li>The assigned staff will conduct antemortem inspection to the ruminant </li>
+          <li>A permit will be issued to the client </li>
+          <li>For the approved permits,the ruminant will be prepared for slaughter</li>
+          <li>The assigned staff will be filling out the Daily Animal Inspection Report (Ruminants) form</li>
         </ol>
       </div>
     </div>

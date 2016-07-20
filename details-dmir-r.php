@@ -11,10 +11,9 @@ sure if the meat is fit for human consumption or condem-
 nation</p>
         <h5>Procedure</h5>
         <ol type="1">
-          <li>Lorem ipsum </li>
-          <li>Lorem ipsum </li>
-          <li>Lorem ipsum </li>
-          <li>Lorem ipsum </li>
+        <li>After the antemortem inspection of the ruminant, the staff will be conducting the postmortem inspection</li>
+          <li>If postmortem inspection was approved, the form will be filled up and will proceed to the next inspection but if it  failed,
+the meat will be disposed</li>
         </ol>
       </div>
     </div>

@@ -10,10 +10,10 @@
         and certificates</p>
         <h5>Procedure</h5>
         <ol type="1">
-          <li>Lorem ipsum </li>
-          <li>Lorem ipsum </li>
-          <li>Lorem ipsum </li>
-          <li>Lorem ipsum </li>
+          <li>This inspection will only be conducted to animals that passed the first two inspection</li>
+          <li>Filling up of form</li>
+          <li>Issuance of certificates for those who passed and completed the inspections</li>
+        
         </ol>
       </div>
     </div>

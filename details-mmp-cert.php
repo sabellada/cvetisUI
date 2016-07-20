@@ -6,13 +6,12 @@
     <div class="form-desc">
       <img id = "form-img"class="materialboxed" src="img/mmp-cert.jpg">
       <div class="form-text">
-        <p>A certification that constains description of animals subjected to ante-mortem and post-mortem veterinary inspection and for human consumption</p>
+        <p>A certification that contains description of animals subjected to antemortem and postmortem veterinary inspection and for human consumption</p>
         <h5>Procedure</h5>
         <ol type="1">
-          <li>Lorem ipsum </li>
-          <li>Lorem ipsum </li>
-          <li>Lorem ipsum </li>
-          <li>Lorem ipsum </li>
+          <li>Complete first the first 3 inspections</li>
+          <li>Issuance of certificates for those who passed and completed the inspections</li>
+        
         </ol>
       </div>
     </div>
